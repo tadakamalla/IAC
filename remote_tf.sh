@@ -1,4 +1,2 @@
 #!/bin/bash
-sudo -su opc
-id
-
+/home/opc/OCI-Workshop/remote-tf.sh
